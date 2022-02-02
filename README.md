@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drxpadrian
+- 👋 Hi, I’m Adrian
 - 👀 I’m interested in becoming a software engineer
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anything really.
